@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SplashViewSample.iml" filepath="$PROJECT_DIR$/SplashViewSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-SplashView.iml" filepath="$PROJECT_DIR$/Android-SplashView.iml" />
+      <module fileurl="file://D:\projects\android\skynet\Android-SplashView\SplashViewSample.iml" filepath="D:\projects\android\skynet\Android-SplashView\SplashViewSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\projects\android\skynet\Android-SplashView\app\app.iml" filepath="D:\projects\android\skynet\Android-SplashView\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/splashview/splashview.iml" filepath="$PROJECT_DIR$/splashview/splashview.iml" />
+      <module fileurl="file://D:\projects\android\skynet\Android-SplashView\splashview\splashview.iml" filepath="D:\projects\android\skynet\Android-SplashView\splashview\splashview.iml" />
     </modules>
   </component>
 </project>
